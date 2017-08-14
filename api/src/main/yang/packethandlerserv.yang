@@ -1,0 +1,9 @@
+module packethandlerserv {
+    yang-version 1;
+    namespace "urn:opendaylight:params:xml:ns:yang:packethandlerserv";
+    prefix "packethandlerserv";
+
+    revision "2015-01-05" {
+        description "Initial revision of packethandlerserv model";
+    }
+}
